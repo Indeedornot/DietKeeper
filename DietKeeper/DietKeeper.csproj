@@ -20,4 +20,5 @@
       </Content>
     </ItemGroup>
 
+    <Import Project="tailwindcss.targets" />
 </Project>

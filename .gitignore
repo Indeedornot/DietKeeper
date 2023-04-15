@@ -7,3 +7,4 @@ riderModule.iml
 .idea
 .vs
 DietKeeper/DietKeeper.csproj.user
+DietKeeper/node_modules
